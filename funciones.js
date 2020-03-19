@@ -3,3 +3,7 @@ function una function(){
 }
 
 console.log('Mi primer push');
+
+
+
+console.log("me la re mando con este error");
