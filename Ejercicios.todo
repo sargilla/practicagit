@@ -1,0 +1,40 @@
+Objetivo
+Vas a estar creando un repositorio remoto en GitHub, un repositorio local en tu computadora y luego vas a estar trabajando con archivos locales, sincronizando los cambios en GitHub.
+¡Atención! Esta ejercitación que se realiza de a pares, así que ¡es hora de buscar a tu dupla!
+Queda a tu criterio si vas a utilizar la terminal o alguna interfaz gráfica para la resolución de las consignas. Nosotros te recomendamos que por lo menos al principio uses la terminal. Después veremos otras opciones más gráficas ;-).
+Consignas:
+Durante las consignas nos referiremos a los participantes como A y B.
+☐ Crear un repositorio remoto
+El participante A deberá crear un nuevo repositorio en https://github.com/.
+Importante que el repositorio se cree vacío (sin tildar la opción del README.md).
+☐ Invitar a las/os colaboradores
+El participante A deberá invitar al participante B como colaborador/a del repositorio que creó anteriormente.
+¡Atención!, si el participante B acaba de crear su cuenta de GitHub, es posible que no figure en el formulario de búsqueda, deberán esperar unos minutos para poder hacerlo.
+☐ Crear un repositorio local y trabajar sobre él
+El participante A deberá crear un repositorio local, vincularlo con el repositorio remoto que creó anteriormente y subir un archivo README.md con el título del repositorio.
+Para eso es recomendable seguir las instrucciones que figuran en GitHub al crear un repositorio.
+☐ Clonar un repositorio remoto
+Una vez que el participante A haya subido el primer archivo, el participante B deberá clonar el repositorio remoto creado por el participante A.
+☐ Trabajar en archivos diferentes (parte 1)
+Ambos participantes deberán crear 3 archivos cada uno/a, los archivos deben tener todos nombres diferentes así que ¡a ponerse de acuerdo!
+Una vez creados, deberán agregarles contenido, agregarlos al repositorio local y sincronizarlos con el repositorio remoto. Terminado esto cada participante deberá descargar los cambios realizados por su pareja.
+Al terminar este punto ambos deberían tener 7 archivos: el README.md y los 3 archivos creados por cada uno.
+☐ Trabajar en archivos diferentes (parte 2)
+Ambos participantes agregarán contenido a cualquiera de los archivos que hayan creado, a continuación subirán los cambios a repositorio remoto.
+Terminado ésto, ambos participantes actualizarán su repositorio local y verificarán que los cambios de la/el otra/o participante se hayan aplicado.
+☐ Trabajar en el mismo archivo
+Ambos participantes deberán seleccionar el mismo archivo y hacer modificaciones en su respectiva computadora. Les sugerimos escribir un par de líneas de texto que tengan sentido porque va hacer más sencillo el próximo paso.
+Una vez modificado el archivo en cada repositorio local, ambas/os deben intentar sincronizarlo con el repositorio remoto.
+☐ Resolver un conflicto
+El primer participante que sincronice el archivo podrá hacerlo si problema. El segundo recibirá una notificación de que existen cambios en el repositorio remoto.
+¡Ahora deben decidir de qué manera resolverán el conflicto!
+Dejando sólo el contenido del participante A
+Dejando sólo el contenido del participante B
+Unificando el contenido de ambos participantes
+Una vez decidido el camino, el participante que corresponda hará los cambios necesarios y subirá el archivo actualizado al repositorio remoto.
+Para terminar la/el otra/o participante actualizará su repositorio local y verificará que los cambios hayan sido aplicados.
+☐ ¡Ejercitación libre!
+Ahora les toca a ustedes, creen nuevos archivos, modifiquen los existentes, generen conflictos y resuélvanlos.
+Cierre 
+Git y GitHub son herramientas indispensables para cualquier desarrollador o desarrolladora sin importar el ámbito de trabajo. 
+También son herramientas van a estar utilizando todo el tiempo, así que les recomendamos dedicarles práctica hasta que las dominen porque van a hacer su trabajo mucho más eficiente.
