@@ -1,8 +1,7 @@
-function una function(){
-    return "funcion en master"
+function fun() {
+  return "funcion en master";
 }
 
-console.log('Mi primer push');
+console.log("Mi primer push");
 
-
-console.log('hola');
+console.log("holasss");
