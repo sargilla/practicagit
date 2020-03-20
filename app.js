@@ -10,3 +10,4 @@ const fs = require('fs');
 
 let profes = JSON.parse(fs.readFileSync('profes.json','utf-8'));
 console.log(profes);
+

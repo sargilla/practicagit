@@ -4,22 +4,22 @@ Vas a estar creando un repositorio remoto en GitHub, un repositorio local en tu 
 Queda a tu criterio si vas a utilizar la terminal o alguna interfaz gráfica para la resolución de las consignas. Nosotros te recomendamos que por lo menos al principio uses la terminal. Después veremos otras opciones más gráficas ;-).
 Consignas:
 Durante las consignas nos referiremos a los participantes como A y B.
-☐ Crear un repositorio remoto
+✔ Crear un repositorio remoto @started(20-03-19 21:25) @done(20-03-19 21:26) @lasted(1m6s)
 El participante A deberá crear un nuevo repositorio en https://github.com/.
 Importante que el repositorio se cree vacío (sin tildar la opción del README.md).
-☐ Invitar a las/os colaboradores
+✔ Invitar a las/os colaboradores @started(20-03-19 21:26) @done(20-03-19 21:26) @lasted(4s)
 El participante A deberá invitar al participante B como colaborador/a del repositorio que creó anteriormente.
 ¡Atención!, si el participante B acaba de crear su cuenta de GitHub, es posible que no figure en el formulario de búsqueda, deberán esperar unos minutos para poder hacerlo.
-☐ Crear un repositorio local y trabajar sobre él
+✔ Crear un repositorio local y trabajar sobre él @started(20-03-19 21:27) @done(20-03-19 21:28) @lasted(1m4s)
 El participante A deberá crear un repositorio local, vincularlo con el repositorio remoto que creó anteriormente y subir un archivo README.md con el título del repositorio.
 Para eso es recomendable seguir las instrucciones que figuran en GitHub al crear un repositorio.
-☐ Clonar un repositorio remoto
+✔ Clonar un repositorio remoto @started(20-03-19 21:28) @done(20-03-19 21:28) @lasted(23s)
 Una vez que el participante A haya subido el primer archivo, el participante B deberá clonar el repositorio remoto creado por el participante A.
-☐ Trabajar en archivos diferentes (parte 1)
+☐ Trabajar en archivos diferentes (parte 1) @started(20-03-19 21:50)
 Ambos participantes deberán crear 3 archivos cada uno/a, los archivos deben tener todos nombres diferentes así que ¡a ponerse de acuerdo!
 Una vez creados, deberán agregarles contenido, agregarlos al repositorio local y sincronizarlos con el repositorio remoto. Terminado esto cada participante deberá descargar los cambios realizados por su pareja.
 Al terminar este punto ambos deberían tener 7 archivos: el README.md y los 3 archivos creados por cada uno.
-☐ Trabajar en archivos diferentes (parte 2)
+☐ Trabajar en archivos diferentes (parte 2) @started(20-03-19 21:50)
 Ambos participantes agregarán contenido a cualquiera de los archivos que hayan creado, a continuación subirán los cambios a repositorio remoto.
 Terminado ésto, ambos participantes actualizarán su repositorio local y verificarán que los cambios de la/el otra/o participante se hayan aplicado.
 ☐ Trabajar en el mismo archivo
