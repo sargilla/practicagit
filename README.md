@@ -72,7 +72,7 @@ I think you should use an
 
 ## Emojis
 
-:smile: :joy:
+:smile: :joy: 
 
 ## Blockquotes
 
